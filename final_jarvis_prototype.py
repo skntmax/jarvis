@@ -126,8 +126,8 @@ if __name__ == "__main__":
         elif "so jao " and " bhago yha se " and "band ho jaao" in query:
             speak("Okey sir as you wish till then jarvis take care , see you soon sir ")
             exit
-        elif "who loves aditi" in query:
-            speak("sir you love aditi and you said it to me thousand of time ")
+        elif "who loves Me" in query:
+            speak("Sir no buddy loves you  ")
         elif "who is aditi" in query:
             speak("okeyy max let me show you again")
             speak("wanna see some slides sir or videos ")
