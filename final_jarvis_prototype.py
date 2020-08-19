@@ -106,8 +106,8 @@ if __name__ == "__main__":
         
         elif "jarvis" in query:
             speak("oo love you too sir")
-        elif "love you baccha" in query:
-            speak("love you baabu ")
+        elif "love you jarvis" in query:
+            speak("love you too Sir ")
         elif "play music" in query:
             music_dir="E:\\all types of songs\\es video\\"
             songs=os.listdir(music_dir)
